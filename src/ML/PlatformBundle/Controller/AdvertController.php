@@ -50,6 +50,10 @@ class AdvertController extends Controller
    $mailer = $this->container->get('mailer');
    // On peut envoyer des e-mails, etc.
   }
+  
+  // test
+  // test
+  // test
 
   public function viewAction($id)
   {
